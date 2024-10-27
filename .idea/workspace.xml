@@ -5,11 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e9feb08-7ff3-4590-9db7-3a43e1a568a7" name="Changes" comment="auto update">
-      <change afterPath="$PROJECT_DIR$/xtweet/tweet/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xtweet/templates/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xtweet/tweet/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xtweet/tweet/templates/tweet_confirm_delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xtweet/tweet/templates/tweet_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xtweet/tweet/templates/tweet_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xtweet/xtweet/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/xtweet/xtweet/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xtweet/xtweet/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xtweet/xtweet/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/xtweet/xtweet/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xtweet/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/xtweet/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xtweet/tweet/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/xtweet/tweet/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xtweet/tweet/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/xtweet/tweet/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xtweet/tweet/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/xtweet/tweet/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xtweet/tweet/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/xtweet/tweet/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,34 +26,34 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ChaitanyaHoodie"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ChaitanyaHoodie&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ChaitanyaHoodie/Xbackend.git",
-    "accountId": "4f1c9cf3-9b3a-42ad-8378-9a0bfb2b1730"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ChaitanyaHoodie/Xbackend.git&quot;,
+    &quot;accountId&quot;: &quot;4f1c9cf3-9b3a-42ad-8378-9a0bfb2b1730&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2nRS0GlI8LEoP3tO8QiGOoq5jsg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="X backend" />
