@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e9feb08-7ff3-4590-9db7-3a43e1a568a7" name="Changes" comment="auto update">
+    <list default="true" id="2e9feb08-7ff3-4590-9db7-3a43e1a568a7" name="Changes" comment="view al tweets page doone, all paths set, bug fix in view tweets api">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xtweet/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/xtweet/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xtweet/tweet/templates/tweet_confirm_delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/xtweet/tweet/templates/tweet_confirm_delete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xtweet/tweet/templates/tweet_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/xtweet/tweet/templates/tweet_form.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xtweet/tweet/templates/tweet_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/xtweet/tweet/templates/tweet_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xtweet/tweet/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/xtweet/tweet/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xtweet/tweet/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/xtweet/tweet/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728936585234</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="view al tweets page doone, all paths set, bug fix in view tweets api">
+      <option name="closed" value="true" />
+      <created>1730031843283</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730031843283</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,7 +136,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="auto update" />
-    <option name="LAST_COMMIT_MESSAGE" value="auto update" />
+    <MESSAGE value="view al tweets page doone, all paths set, bug fix in view tweets api" />
+    <option name="LAST_COMMIT_MESSAGE" value="view al tweets page doone, all paths set, bug fix in view tweets api" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
